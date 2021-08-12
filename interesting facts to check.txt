@@ -1,0 +1,4 @@
+Interesting facts
+> Parsing the wine title: [Feudi del Pisciotto] [2010] [Missoni] [Cabernet Sauvignon] [(Sicilia)] 
+			[winery] [vintage] [designation] [variety] [origin]
+Gamay variety does not seem to appear in titles.  They seem to be made in the province of Beaujolais.  See if Beaujolais only does Gamay. Check Province:Beaujolais <=> variety:Gamay

@@ -1,0 +1,8 @@
+Wine reviews dataset
+https://www.kaggle.com/zynicide/wine-reviews?select=winemag-data_first150k.csv
+
+Red wine quality: physicochemical properties
+https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009
+
+Description of physicochemical properties. Same data as above, not using this for data, only for the description of what each feature means.E.g "chlorides: the amount of salt in the wine"
+https://www.kaggle.com/piyushgoyal443/red-wine-dataset?select=wineQualityReds.csv

@@ -1,0 +1,54 @@
+Two datasets
+- Wine quality based on physicochemical tests
+- Wine quality based on origin, variety, winery
+
+Questions
+Dataset 1: 
+link: https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009
+
+*Q. What physicochemical properties about wine contribute to quality?
+	- SQ. If so, what physicochemical properties does a winery need to pay particular attention to ensure high-quality wine? (which to augment and which to avoid at all costs)
+
+Dataset 2
+link: https://www.kaggle.com/zynicide/wine-reviews?select=winemag-data_first150k.csv
+*Q. Is there reviewer bias? (should you pick a particular reviewer to review your new wine?)
+*Q. Is there a wine variety that is generally more expensive than the rest?
+*Q. What are the best wineries and regions?
+*Q. Can we find good value for money, i.e. cheap wine with a high score? And is there a region/winery that excels at this? (they might be leaving money on the table)
+*Q. Are there common descriptors for good vs less good wines? (For example, having oak vs cedar play a role in score?)(from the sommelier's wine wine description)
+
+
+Part 1: Is there an area that excels at producing top wine?
+
+Q. What are the best wineries and regions?
+
+Q. Is there a wine variety that is generally more expensive than the rest?
+
+Q. What physicochemical properties about wine contribute to quality?
+
+Part 2: Value for money
+
+Q. Can we find good value for money, i.e. cheap wine with a high score? And is there a region/winery that excels at this? (they might be leaving money on the table)
+
+Part 3: Reviewer bias
+
+Q. Is there reviewer bias? (should you pick a particular reviewer to review your new wine?)
+
+Q. Are there common descriptors for good vs less good wines? (For example, having oak vs cedar play a role in score?)(from the sommelier's wine wine description)
+
+Affiliate links
+https://www.wine.com/content/business-dev/affiliate-program#
+
+
+####
+
+
+
+#############
+Udacity questions
+
+1. How other developers suggested breaking into the field (what education to pursue)?
+2. What factors about an individual contributed to salary?
+3. How bias played a role in the suggestions of developers for how to break into the field?
+S.1.1 What was the state of bootcamps for assisting individuals with breaking into developer roles?
+S.1.2 How were bootcamps assisting with increasing diversity in tech careers?
